@@ -24,9 +24,9 @@
 - IPv4 address of the main/default gateway in the victim-host LAN.
 - The name of the main/default gateway’s manufacturer.
 - The number of (other) active/responsive & Passive hosts on the victim-host LAN, besides the network’s default gateway.
-- The number of ‘Apple’ devices among the identified active hosts from Local Area Network.
-- The number of ‘Cisco’ devices among the identified active hosts from Local Area Network.
-- The number of devices, among the active hosts identified in Local Area Network, with ports 80 and 443 open and responding.
+- The number of ‘Apple’ devices among the identified active hosts from **Local Area Network(LAN)**.
+- The number of ‘Cisco’ devices among the identified active hosts from **Local Area Network(LAN)**.
+- The number of devices, among the active hosts identified in **Local Area Network(LAN)**, with ports 80 and 443 open and responding.
 
 ## Before Running Script 
 
