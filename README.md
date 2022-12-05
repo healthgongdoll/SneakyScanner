@@ -11,6 +11,10 @@
 - Python
 - Scapy 
 
+## Installation Code
+
+```pip install Scapy```
+
 ## Functionalities
 
 - The current globally routable IPv4 address of the victim-host.
